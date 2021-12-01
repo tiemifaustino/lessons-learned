@@ -100,9 +100,6 @@ h1 {
   border-style:hidden;
   width: 100px;
   margin: 30px;
-}
-
-.botoes:hover {
   transition: 0.5s;
 }
 
